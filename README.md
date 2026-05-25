@@ -14,3 +14,8 @@ A calculadora permite realizar as seguintes operações:
 ### Observações:
 - As funções trigonométricas utilizam valores em graus
 - Operações como `sqrt`, `sin`, `cos` e `tan` utilizam apenas um número como entrada
+
+# Calculadora 2.0
+- Interface melhorada
+- Aplicação de funções e biblioteca
+- Apresenta as mesmas funcionalidades da versão anterior
