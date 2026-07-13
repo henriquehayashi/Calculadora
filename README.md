@@ -18,4 +18,4 @@ A calculadora permite realizar as seguintes operações:
 # Calculadora 2.0
 - Interface melhorada
 - Aplicação de funções e biblioteca
-- Apresenta as mesmas funcionalidades da versão anterior
+- Apresenta as mesmas funcionalidades da versão anterior 
